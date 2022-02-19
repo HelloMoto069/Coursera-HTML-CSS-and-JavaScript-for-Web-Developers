@@ -1,4 +1,4 @@
 # Coursera-HTML-CSS-and-JavaScript-for-Web-Developers
 
-<bbr />
+<br />
 Coursera Solo Projects using HTML, CSS and JavaScript
